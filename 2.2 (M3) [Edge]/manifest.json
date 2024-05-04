@@ -34,7 +34,6 @@
    "manifest_version": 3,
    "name": "__MSG_app_name__",
    "permissions": [ "storage" ],
-   "short_name": "mytube-for-youtube",
    "version": "2.2",
    "web_accessible_resources": [ {
       "matches": [ "*://*.youtube.com/*" ],

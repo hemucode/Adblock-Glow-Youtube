@@ -20,7 +20,7 @@ function translateHTML (dataKey = 'message') {
 }
 
 function linkButton() {
-  document.querySelector('.teaser').href = `https://chrome.google.com/webstore/detail/${chrome.runtime.id}/reviews`;
+  document.querySelector('.teaser').href = `https://microsoftedge.microsoft.com/addons/detail/${chrome.runtime.id}`;
   document.querySelector('.youtube').href = `https://youtube.com/c/HemantaGayen`;
   document.querySelector('.facebook').href = `https://www.facebook.com/codehemu/`;
   document.querySelector('.website').href = `https://www.codehemu.com/2022/07/adblock-glow-youtube-best-google-chrome.html`;
